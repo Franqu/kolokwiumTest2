@@ -8,6 +8,10 @@ namespace Kolokwium2
 {
   public class Program
     {
+        static void zadanie()
+        {
+
+        }
 
         public static void Main(string[] args)
         {
