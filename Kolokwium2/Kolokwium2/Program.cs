@@ -10,7 +10,7 @@ namespace Kolokwium2
     {
         static void zadanie()
         {
-
+            //Todo functionality of the method as asked on the paper
         }
 
         public static void Main(string[] args)
