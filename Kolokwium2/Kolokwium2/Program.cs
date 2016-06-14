@@ -8,9 +8,12 @@ namespace Kolokwium2
 {
   public class Program
     {
-        static void zadanie()
+       public static void zadanie()
         {
             //Todo functionality of the method as asked on the paper
+
+          int[] a;
+          
         }
 
         public static void Main(string[] args)

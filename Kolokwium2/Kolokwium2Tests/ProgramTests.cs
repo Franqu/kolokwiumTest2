@@ -15,6 +15,7 @@ namespace Kolokwium2.Tests
         public void MainTest()
         {
             //Test unit supporting task granted on paper
+            
             Assert.Fail();
         }
     }
